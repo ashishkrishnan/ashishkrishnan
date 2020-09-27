@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi, Foo 👋
 
-<!--
+#### Here are few things about me
+I work as a Product Engineer at [GoJek](https://www.gojek.io), India. Previously at kite.work
+
+Currently, excited & hooked to Functional, Reactive Programming.
+Strong proponent of test-driven pragmatic engineering practices & open-source.
+
+Started off in 2013-14 with a crazy idea of building an OS on top of Android - failed, parked.
+
+Sometimes, I write my thoughts here: [ashishkrishnan.blog](https://ashishkrishnan.blog)
+
+<!--  
 **ashishkrishnan/ashishkrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
